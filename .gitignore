@@ -1,0 +1,24 @@
+# Maven / Java build artifacts
+target/
+dependency-reduced-pom.xml
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs & temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE / Editors
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Eclipse / VS Code Java
+.classpath
+.project
+.settings/
